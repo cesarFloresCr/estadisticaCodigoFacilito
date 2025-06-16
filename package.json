@@ -1,0 +1,28 @@
+{
+  "name": "estadisticacodigofacilito",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cesarFloresCr/estadisticaCodigoFacilito.git"
+  },
+  "keywords": [],
+  "author": "Infectedmx",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/cesarFloresCr/estadisticaCodigoFacilito/issues"
+  },
+  "homepage": "https://github.com/cesarFloresCr/estadisticaCodigoFacilito#readme",
+  "description": "Funciones estadisitcas y generacion de graficas con node.js",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "chart.js": "^4.5.0",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
